@@ -18,22 +18,27 @@
       <td><a href="https://repology.org/project/git-delta/versions">
         <img src="https://repology.org/badge/version-for-repo/termux/git-delta.svg?header=Delta" alt="Delta diff viewer">
       </a></td>
+    </tr>
+    <tr>
       <td><a href="https://repology.org/project/eza/versions">
         <img src="https://repology.org/badge/version-for-repo/termux/eza.svg?header=Eza" alt="Exa reborn">
       </a></td>
-    </tr>
-    <tr>
       <td><a href="https://repology.org/project/jwm/versions">
         <img src="https://repology.org/badge/version-for-repo/termux/jwm.svg?header=JWM" alt="Joe's Window Manager">
       </a></td>
       <td><a href="https://repology.org/project/nerdfix/versions">
         <img src="https://repology.org/badge/version-for-repo/termux/nerdfix.svg?header=Nerdfix" alt="Termux package">
       </a></td>
+    </tr>
+    <tr>
       <td><a href="https://repology.org/project/rsgain/versions">
         <img src="https://repology.org/badge/version-for-repo/termux/rsgain.svg?header=Rsgain" alt="A audio normalization utility">
       </a></td>
       <td><a href="https://repology.org/project/typst-lsp/versions">
         <img src="https://repology.org/badge/version-for-repo/termux/typst-lsp.svg?header=Typst%20LSP" alt="LSP for Typst">
+      </a></td>
+      <td><a href="https://repology.org/project/zrok/versions">
+        <img src="https://repology.org/badge/version-for-repo/termux/zrok.svg?header=zrok" alt="A novel P2P sharing platform">
       </a></td>
     </tr>
   </tbody>
@@ -47,4 +52,3 @@
 </div>
 
 <!-- vim: set ft=markdown et tw=2 sw=2 ff=unix -->
-
