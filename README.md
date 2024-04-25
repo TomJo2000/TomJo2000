@@ -15,8 +15,6 @@
       <td><a href="https://repology.org/project/bash-completion/versions">
         <img src="https://repology.org/badge/version-for-repo/termux/bash-completion.svg?header=Bash%20Completions" title="Community maintained Bash completions">
       </a></td>
-    </tr>
-    <tr>
       <td><a href="https://repology.org/project/git-delta/versions">
         <img src="https://repology.org/badge/version-for-repo/termux/git-delta.svg?header=Delta" title="Delta diff viewer">
       </a></td>
@@ -31,8 +29,6 @@
       <td><a href="https://repology.org/project/jwm/versions">
         <img src="https://repology.org/badge/version-for-repo/termux/jwm.svg?header=JWM" title="Joe's Window Manager">
       </a></td>
-    </tr>
-    <tr>
       <td><a href="https://repology.org/project/nerdfix/versions">
         <img src="https://repology.org/badge/version-for-repo/termux/nerdfix.svg?header=Nerdfix" title="Find and replace obsolete NerdFont glyphs">
       </a></td>
@@ -41,6 +37,12 @@
       </a></td>
     </tr>
     <tr>
+      <td><a href="https://repology.org/project/tmux/versions">
+        <img src="https://repology.org/badge/version-for-repo/termux/tmux.svg?header=Tmux" title="OpenBSD's Terminal Multiplexer">
+      </a></td>
+      <td><a href="https://repology.org/project/typstfmt/versions">
+        <img src="https://repology.org/badge/version-for-repo/termux/typstfmt.svg?header=Typstfmt" title="Formatter for Typst">
+      </a></td>
       <td><a href="https://repology.org/project/typst-lsp/versions">
         <img src="https://repology.org/badge/version-for-repo/termux/typst-lsp.svg?header=Typst%20LSP" title="LSP for Typst">
       </a></td>
