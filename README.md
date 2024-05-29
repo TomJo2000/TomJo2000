@@ -63,11 +63,4 @@
   </tbody>
 </table>
 
-<div align=center>
-
-### Metrics
-![Metrics](github-metrics.svg)
-
-</div>
-
 <!-- vim: set ft=markdown et tw=2 sw=2 ff=unix -->
