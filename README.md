@@ -97,8 +97,8 @@
       <td><a href="https://repology.org/project/typstfmt/versions">
         <img src="https://repology.org/badge/version-for-repo/termux/typstfmt.svg?header=Typstfmt" title="Formatter for Typst">
       </a></td>
-      <td><a href="https://repology.org/project/typst-lsp/versions">
-        <img src="https://repology.org/badge/version-for-repo/termux/typst-lsp.svg?header=Typst%20LSP" title="LSP for Typst">
+      <td><a href="https://repology.org/project/tinymist/versions">
+        <img src="https://repology.org/badge/version-for-repo/termux/tinymist.svg?header=Tinymist" title="LSP for Typst">
       </a></td>
       <td><a href="https://repology.org/project/zrok/versions">
         <img src="https://repology.org/badge/version-for-repo/termux/zrok.svg?header=Zrok" title="A novel P2P sharing platform">
